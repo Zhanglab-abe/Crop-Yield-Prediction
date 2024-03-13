@@ -11,7 +11,7 @@
 *This repo is owned by the [Sensing and Automation in Agri-System (SAAS) Lab](https://sites.google.com/view/xin-zhang-lab/home) in the Department of Agricultural & Biological Engineering at Mississippi State University. Please contact the lab PI, [Dr. Xin Zhang](https://www.abe.msstate.edu/people/faculty/xin-zhang/), if you have any questions regarding this repo.*
 
 # How to use this repo?
-*We achieved the best prediction accuracy of **soybean** crop yield using XGBoost. The complete code can be found in this [Jupyter Notebook (IPYNB)](https://github.com/Zhanglab-abe/Crop-Yield-Prediction/blob/main/Crop_Yield_Prediction_XGBoost.ipynb). The request of the full dataset should be sent to the host of the [MLCAS2021 Crop Yield Prediction Challenge](https://eval.ai/web/challenges/challenge-page/1251/overview).*
+*We achieved the best prediction accuracy of **soybean** crop yield using [**XGBoost**](https://xgboost.readthedocs.io/en/stable/). The complete code can be found in this [Jupyter Notebook (IPYNB)](https://github.com/Zhanglab-abe/Crop-Yield-Prediction/blob/main/Crop_Yield_Prediction_XGBoost.ipynb). The request of the full dataset should be sent to the host of the [MLCAS2021 Crop Yield Prediction Challenge](https://eval.ai/web/challenges/challenge-page/1251/overview).*
 
 # About the dataset
 *Dataset request should be sent to the host of the [MLCAS2021 Crop Yield Prediction Challenge](https://eval.ai/web/challenges/challenge-page/1251/overview). The dataset folder should consist of two sub-folders: **Training**, **Test Inputs**. The training dataset comprises 93,028 performance records. The Training folder consists of the following files:*
