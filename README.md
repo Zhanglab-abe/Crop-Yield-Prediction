@@ -35,4 +35,4 @@
 - `inputs_weather_test.npy`: Daily weather data for each performance record for a total of 214 days (time-steps). Each day is represented by **7 weather variables**: `ADNI`, `AP`, `ARH`, `MDNI`, `MaxSur`, `MinSur`, `AvgSur`.
 - `inputs_others_test.npy`: `MG`, `Genotype ID`, `State`, `Year`, and `Location` for each performance record.
 
-*The genotype clustering information is provided in `clusterID_genotype.npy`. The file contains **cluster ID** for each of the 5,839 genotypes. A completely connected pedigree for all lines with available parentage information was developed, resulting in the formation of a 5,839 x 5,839 correlation matrix. From the correlation matrix, the K-means algorithm was used for clustering.
+*The genotype clustering information is provided in `clusterID_genotype.npy`. The file contains **cluster ID** for each of the 5,839 genotypes. A completely connected pedigree for all lines with available parentage information was developed, resulting in the formation of a 5,839 x 5,839 correlation matrix. From the correlation matrix, the K-means algorithm was used for clustering.*
